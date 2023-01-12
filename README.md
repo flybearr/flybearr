@@ -3,7 +3,6 @@
 🎓 2022/12 Graduated from iSpan &&  2021/06 Graduated Chihlee University of Science and Technology
 
 📩 To reach me/work things out together/any thoughts goodgood0331@gmail.com
-![20221102002122](https://user-images.githubusercontent.com/111039847/211995839-2eddb96c-c5f4-4a89-b475-be4e9dc5f772.jpg)
 
 <!--
 **flybearr/flybearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

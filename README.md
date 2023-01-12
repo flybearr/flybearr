@@ -1,4 +1,8 @@
-### Hi there 👋
+🌱 I'm a Front-end newbee
+
+🎓 2022/12 Graduated from iSpan &&  2021/06 Graduated Chihlee University of Science and Technology
+
+📩 To reach me/work things out together/any thoughts goodgood0331@gmail.com
 
 <!--
 **flybearr/flybearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
